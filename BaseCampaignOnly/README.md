@@ -4,6 +4,6 @@
 
 This filter serves as a starting point for all CampaignOnly filters, dictating the progression of basic items like currency, jewellery, and flasks.
 
-You could, in theory, level any build with this filter because every rare is highlighted equally. However, I'd highly recommend against using this filter because you won't see any base types tailored towards your build.
+You could, in theory, level any build with this filter because every rare is highlighted equally. However, I'd highly recommend against using it because you won't see any base types tailored towards your build.
 
 # Complete filter notes
