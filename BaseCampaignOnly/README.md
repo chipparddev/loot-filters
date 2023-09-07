@@ -19,9 +19,9 @@ You could, in theory, level any build with this filter because every rare is hig
 **Gems**
 
 All gems are shown.
-> Appearance: Default
-> Size: Default
-> TTS: None
+> Appearance: Default  
+> Size: Default  
+> TTS: None  
 
 **Maps**
 
