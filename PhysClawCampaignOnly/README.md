@@ -15,18 +15,18 @@ You can also use this filter for ele claws, but it will be slightly suboptimal. 
 
 # Complete filter documentation:
 
-**- Equipment -**
+**[ Equipment ]**
 
-**- Flasks -**
+**[ Flasks ]**
 
-**- Uniques -**
+**[ Uniques ]**
 
-**- Currency -**
+**[ Currency ]**
 
-**- Gems -**
+**[ Gems ]**
 
-**- Divination Cards -**
+**[ Divination Cards ]**
 
-**- Fragments -**
+**[ Fragments ]**
 
-**- Map -**
+**[ Maps ]**
