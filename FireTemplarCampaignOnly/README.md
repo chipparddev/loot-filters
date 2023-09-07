@@ -1,7 +1,9 @@
-# About this filter
+*CampaignOnly note: This filter should only be used for races/speedruns to A10 or earlier. Don't use it if you plan on mapping.*
 
-*CampaignOnly note: This filter should only be used for races/speedruns to A10 or earlier. Don't use this filter if you plan on mapping.*
+*Version note: This filter is for 3.22. There are no plans for it to be updated for 3.23 leaguestart, and it shouldn't be used for leaguestarting anyways.*
 
-This filter is for the meta templar racing build. It's perfectly usable for A5 runs, but is tailored more towards A10.
+# About this filter:
 
-# Complete filter notes
+This filter is for the fire caster templar build that uses Rolling Magma, Armageddon Brand, and Cremation. It's perfectly usable for A5 runs, but is tailored more towards A10.
+
+# Complete filter documentation:
