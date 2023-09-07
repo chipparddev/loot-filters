@@ -8,18 +8,18 @@ This filter is for the fire caster templar build that uses Rolling Magma, Armage
 
 # Complete filter documentation:
 
-**Equipment**
+**- Equipment -**
 
-**Flasks**
+**- Flasks -**
 
-**Uniques**
+**- Uniques -**
 
-**Currency**
+**- Currency -**
 
-**Gems**
+**- Gems -**
 
-**Divination Cards**
+**- Divination Cards -**
 
-**Fragments**
+**- Fragments -**
 
-**Maps**
+**- Map -**
