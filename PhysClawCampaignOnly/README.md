@@ -19,6 +19,8 @@ You can also use this filter for ele claws, but it will be slightly suboptimal. 
 
 **Flasks**
 
+**Uniques**
+
 **Currency**
 
 **Gems**

@@ -12,6 +12,8 @@ This filter is for the fire caster templar build that uses Rolling Magma, Armage
 
 **Flasks**
 
+**Uniques**
+
 **Currency**
 
 **Gems**
