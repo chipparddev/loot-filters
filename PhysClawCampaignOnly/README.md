@@ -14,3 +14,17 @@ Weapons focused on:
 You can also use this filter for ele claws, but it will be slightly suboptimal. Namely, rare claws that have "fallen behind the phys curve" (e.g. a rare Awl in A6) won't play TTS.
 
 # Complete filter documentation:
+
+**Equipment**
+
+**Flasks**
+
+**Currency**
+
+**Gems**
+
+**Divination Cards**
+
+**Fragments**
+
+**Maps**

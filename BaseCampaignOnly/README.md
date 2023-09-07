@@ -22,6 +22,13 @@ You could, in theory, level any build with this filter because every rare is hig
 > - Appearance: Default 
 > - Size: Default
 > - TTS: None  
+> - Map icon: None
+
+**Divination Cards**
+
+**Fragments**
+
+- All fragments are hidden.
 
 **Maps**
 
