@@ -18,11 +18,11 @@ You could, in theory, level any build with this filter because every rare is hig
 
 **Gems**
 
-All gems are shown.
+- All gems are shown.
 > Appearance: Default  
 > Size: Default  
 > TTS: None  
 
 **Maps**
 
-All maps and contracts are hidden.
+- All maps and contracts are hidden.
