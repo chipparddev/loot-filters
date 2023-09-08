@@ -7,10 +7,10 @@ All filters found here are fully documented. In the documentation, groupings of 
 **Description of the item grouping**
 
 Area levels:
-> Colors
-> Size
-> Sound
-> Map icon 
+> Colors  
+> Size  
+> Sound  
+> Map icon  
 
 ---
 
