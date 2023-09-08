@@ -303,6 +303,8 @@ Size: 45
 Sound: TTS ("seventeen chrome card", "ten alt card")  
 Map icon: Purple triangle
 
+---
+
 *Other divination cards are hidden.*
 
 # Fragments
