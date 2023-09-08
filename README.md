@@ -4,13 +4,14 @@ All filters found here are fully documented. In the documentation, groupings of 
 
 ---
 
-**Description of the item grouping**
+**Description of item grouping**
 
-Area levels:
-> Colors  
-> Size  
-> Sound  
-> Map icon  
+Area levels x-x:
+
+Colors  
+Size  
+Sound  
+Map icon    
 
 ---
 
