@@ -15,8 +15,6 @@ You can also use this filter for ele claws, but it will be slightly suboptimal. 
 
 # Complete documentation:
 
----
-
 # Equipment
 
 # Flasks

@@ -8,8 +8,6 @@ This filter is for the templar fire caster build that uses Rolling Magma, Armage
 
 # Complete documentation:
 
----
-
 # Equipment
 
 # Flasks
