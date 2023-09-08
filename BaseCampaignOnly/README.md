@@ -43,7 +43,7 @@ Size: 45 -> 40
 
 # Currency
 
-*Wisdoms have TTS until The Prisoner's Gate and are hidden from The Cathedral Rooftop onwards.*
+*Wisdoms have TTS until Prisoner's Gate and are hidden from The Cathedral Rooftop onwards.*
 
 **Area levels 1-9**  
 Colors: Default  
@@ -220,12 +220,12 @@ Map icon: Green cross
 
 ---
 
-*Scourings, Alchemies, Regrets, Chaos, and Regals always have TTS.*
+*Scourings, Regrets, Alchemies, Chaos, and Regals always have TTS.*
 
 **Area levels 1-67**  
 Colors: Orange background, black text, black border  
 Size: 45  
-Sound: TTS ("alchemy", "regret", "chaos", "regal")  
+Sound: TTS ("scour", "regret", "alchemy", "chaos", "regal")  
 Map icon: Yellow cross
 
 ---
@@ -278,8 +278,7 @@ Map icon: Purple cross
 
 ---
 
-*Blesseds, Gemcutters', and Chisels are hidden.*
-
+*Blesseds, Gemcutters', and Chisels are hidden.*  
 *Rogue Markers and Silver Coins are hidden.*
 
 # Gems
