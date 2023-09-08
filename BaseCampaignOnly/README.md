@@ -20,8 +20,6 @@ WIP
 
 # Uniques
 
----
-
 *Tabula Rasa, Thousand Ribbons, Foxshade, Wanderlust, Victario's Flight, Nomic's Storm, Sundance, Goldrim, Asenath's Mark, Thrillsteel, Lochtonial Caress, Ondar's Clasp, Le Heup of All, the Berek's rings, Tasalio's Sign, Karui Ward, and The Ignomon are sought after by a wide variety of builds, and are notable power outliers at the level they drop at.*
 
 **Area levels 1-67**  
@@ -43,11 +41,7 @@ Map icon: Brown star
 **Area levels 45-67**  
 Size: 45 -> 40
 
----
-
 # Currency
-
----
 
 *Wisdoms have TTS until The Prisoner's Gate and are hidden from The Cathedral Rooftop onwards.*
 
@@ -290,8 +284,6 @@ Map icon: Purple cross
 
 # Gems
 
----
-
 *Gems are shown normally. The Twilight Strand gems are max size.*
 
 **Area level 1**  
@@ -301,11 +293,7 @@ Size: 45
 **Area levels 2-67**  
 Size: 45 -> 40
 
----
-
 # Divination Cards
-
----
 
 *The Heroic Shot and Society's Remorse are powerful cards that have an immediate impact on your currency situation.*
 
@@ -314,8 +302,6 @@ Colors: White background, blue text, blue border
 Size: 45  
 Sound: TTS ("seventeen chrome card", "ten alt card")  
 Map icon: Purple triangle
-
----
 
 *Other divination cards are hidden.*
 
