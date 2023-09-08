@@ -47,6 +47,8 @@ Size: 45 -> 40
 
 # Currency
 
+---
+
 *Wisdoms have TTS until The Prisoner's Gate and are hidden from The Cathedral Rooftop onwards.*
 
 **Area levels 1-9**  
@@ -60,11 +62,15 @@ Size: 45 -> 40
 Sound: TTS -> None  
 Map icon: Grey cross -> None
 
+---
+
 *Wisdom stacks are always shown.*
 
 **Area levels 1-67**  
 Colors: Default  
 Size: 45
+
+---
 
 *Portals have TTS until The Forest Encampment.*
 
@@ -78,6 +84,8 @@ Map icon: Grey cross
 Sound: TTS -> None  
 Map icon: Grey cross -> None
 
+---
+
 *Portal stacks of >4 always have TTS.*
 
 **Area levels 1-67**  
@@ -85,6 +93,8 @@ Colors: Default
 Size: 45  
 Sound: TTS ("portal stack")  
 Map icon: Grey cross
+
+---
 
 *Armourers have TTS until The Slums.*
 
@@ -98,6 +108,8 @@ Map icon: White cross
 Sound: TTS -> None  
 Map icon: White cross -> None
 
+---
+
 *Armourer stacks of >3 always have TTS.*
 
 **Area levels 1-67**  
@@ -105,6 +117,8 @@ Colors: Default
 Size: 45  
 Sound: TTS ("armourer stack")  
 Map icon: White cross
+
+---
 
 *Whetstones have TTS until The Cathedral Rooftop.*
 
@@ -118,6 +132,8 @@ Map icon: White cross
 Sound: TTS -> None  
 Map icon: White cross -> None
 
+---
+
 *Whetstone stacks always have TTS.*
 
 **Area levels 1-67**  
@@ -125,6 +141,8 @@ Colors: Default
 Size: 45  
 Sound: TTS ("whetstone stack")  
 Map icon: White cross
+
+---
 
 *Augmentations have TTS until The Slums.*
 
@@ -138,6 +156,8 @@ Map icon: Blue cross
 Sound: TTS -> None  
 Map icon: Blue cross -> None
 
+---
+
 *Augmentation stacks of >3 always have TTS.*
 
 **Area levels 1-67**  
@@ -145,6 +165,8 @@ Colors: Default
 Size: 45  
 Sound: TTS ("augment stack")  
 Map icon: Blue cross
+
+---
 
 *Transmutations have TTS until The Cathedral Rooftop.*
 
@@ -158,6 +180,8 @@ Map icon: Blue cross
 Sound: TTS -> None  
 Map icon: Blue cross -> None
 
+---
+
 *Transmutation stacks always have TTS.*
 
 **Area levels 1-67**  
@@ -165,6 +189,8 @@ Colors: Default
 Size: 45  
 Sound: TTS ("transmute stack")  
 Map icon: Blue cross
+
+---
 
 *Alterations, Chromatics, and Jewellers' have TTS until The Cathedral Rooftop.*
 
@@ -178,6 +204,8 @@ Map icon: Pink cross
 Sound: TTS -> None  
 Map icon: Pink cross -> None
 
+---
+
 *Alteration, Chromatic, and Jeweller's stacks always have TTS.*
 
 **Area levels 1-67**  
@@ -185,6 +213,8 @@ Colors: Beige background, black text, black border
 Size: 45  
 Sound: TTS ("alt stack", "chrome stack", "jeweller stack")  
 Map icon: Pink cross
+
+---
 
 *Fusings and Chances always have TTS.*
 
@@ -194,6 +224,8 @@ Size: 45
 Sound: TTS ("fusing", "chance")  
 Map icon: Green cross
 
+---
+
 *Scourings, Alchemies, Regrets, Chaos, and Regals always have TTS.*
 
 **Area levels 1-67**  
@@ -201,6 +233,8 @@ Colors: Orange background, black text, black border
 Size: 45  
 Sound: TTS ("alchemy", "regret", "chaos", "regal")  
 Map icon: Yellow cross
+
+---
 
 *Bindings always have TTS.*
 
@@ -210,6 +244,8 @@ Size: 45
 Sound: TTS ("binding")  
 Map icon: Orange cross
 
+---
+
 *Vaals always have TTS.*
 
 **Area levels 1-67**  
@@ -217,6 +253,8 @@ Colors: Orange background, black text, black border
 Size: 45  
 Sound: TTS ("vaal")  
 Map icon: Red cross
+
+---
 
 *Exalteds always have TTS.*
 
@@ -226,11 +264,15 @@ Size: 45
 Sound: TTS ("exalt")  
 Map icon: Purple cross
 
+---
+
 *Baubles are shown normally.*
 
 **Area levels 1-67**  
 Colors: Beige background, black text, black border  
 Size: 45
+
+---
 
 *Mirrors, Divines, Sacreds, and Reliquary Keys are shown normally.*
 
@@ -240,11 +282,15 @@ Size: 45
 Sound: 6  
 Map icon: Purple cross
 
+---
+
 *Blesseds, Gemcutters', and Chisels are hidden.*
 
 *Rogue Markers and Silver Coins are hidden.*
 
 # Gems
+
+---
 
 *Gems are shown normally. The Twilight Strand gems are max size.*
 
@@ -255,7 +301,11 @@ Size: 45
 **Area levels 2-67**  
 Size: 45 -> 40
 
+---
+
 # Divination Cards
+
+---
 
 *The Heroic Shot and Society's Remorse are powerful cards that have an immediate impact on your currency situation.*
 
@@ -264,6 +314,8 @@ Colors: White background, blue text, blue border
 Size: 45  
 Sound: TTS ("seventeen chrome card", "ten alt card")  
 Map icon: Purple triangle
+
+---
 
 *Other divination cards are hidden.*
 
