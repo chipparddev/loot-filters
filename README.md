@@ -1,6 +1,6 @@
 # Welcome to the Chippard Filter Emporium
 
-All filters found here are fully documented. In the documentation, groupings of items will follow this format:
+All filters found here are fully documented. In the documentation, groupings of items follow this format:
 
 ---
 
@@ -14,4 +14,4 @@ Map icon: Description
 
 ---
 
-If there isn't a sound or a map icon, the last two rows will be omitted.
+If there isn't a sound or a map icon, the last two rows are omitted.
