@@ -6,12 +6,11 @@ All filters found here are fully documented. In the documentation, groupings of 
 
 *Description of item grouping*
 
-Area levels x-x:
-
-Colors | Description   
-Size | Number  
-Sound | Description  
-Map icon | Description      
+**Area levels x-x**  
+Colors: Description   
+Size: Number  
+Sound: Description  
+Map icon: Description      
 
 ---
 
