@@ -6,7 +6,7 @@
 
 This filter is for the fire caster templar build that uses Rolling Magma, Armageddon Brand, and Cremation. It's perfectly usable for A5 runs, but is tailored more towards A10.
 
-# Complete filter documentation:
+# Complete documentation:
 
 **[ Equipment ]**
 
