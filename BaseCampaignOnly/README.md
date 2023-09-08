@@ -24,10 +24,10 @@ WIP
 
 Area levels 1-67:
 
-**Colors:**     White background, brown text, brown border  
-**Size:**       45  
-**Sound:**      TTS (name of the unique)  
-**Map icon:**   Purple star  
+Colors | White background, brown text, brown border  
+Size | 45  
+Sound | TTS (name of the unique)  
+Map icon | Purple star  
 
 Other uniques are shown normally. They decrease in size from The Cathedral Rooftop onwards to be consistent with rares.
 - Area levels 1-44:
