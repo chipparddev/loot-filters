@@ -10,22 +10,25 @@ You could, in theory, level any build with this filter because every rare is hig
 
 # Complete documentation:
 
-**[ Equipment ]**
+---
+
+# Equipment
 
 WIP
 
-**[ Flasks ]**
+# Flasks
 
 WIP
 
-**[ Uniques ]**
+# Uniques
 
-Tabula Rasa, Thousand Ribbons, Foxshade, Wanderlust, Victario's Flight, Nomic's Storm, Sundance, Goldrim, Asenath's Mark, Thrillsteel, Lochtonial Caress, Ondar's Clasp, Le Heup of All, the Berek's rings, Tasalio's Sign, Karui Ward, and The Ignomon are sought after by a wide variety of builds, and are notable power outliers at the level they drop at.
-- Area levels 1-67:
-> - Colors: White background, brown text, brown border
-> - Size: 45
-> - Sound: TTS (name of the unique)
-> - Map icon: Purple star
+**Tabula Rasa, Thousand Ribbons, Foxshade, Wanderlust, Victario's Flight, Nomic's Storm, Sundance, Goldrim, Asenath's Mark, Thrillsteel, Lochtonial Caress, Ondar's Clasp, Le Heup of All, the Berek's rings, Tasalio's Sign, Karui Ward, and The Ignomon are sought after by a wide variety of builds, and are notable power outliers at the level they drop at.**
+
+Area levels 1-67:
+- Colors: White background, brown text, brown border
+- Size: 45
+- Sound: TTS (name of the unique)
+- Map icon: Purple star
 
 Other uniques are shown normally. They decrease in size from The Cathedral Rooftop onwards to be consistent with rares.
 - Area levels 1-44:
@@ -36,7 +39,7 @@ Other uniques are shown normally. They decrease in size from The Cathedral Rooft
 - Area levels 45-67:
 > - Size: 45 -> 40
 
-**[ Currency ]**
+# Currency
 
 Wisdoms have TTS until The Prisoner's Gate and are hidden from The Cathedral Rooftop onwards.
 - Area levels 1-9:
@@ -207,7 +210,7 @@ Blesseds, Gemcutters', and Chisels are hidden.
 
 Rogue Markers and Silver Coins are hidden.
 
-**[ Gems ]**
+# Gems
 
 Gems are shown normally. The Twilight Strand gems are max size.
 - Area level 1:
@@ -216,7 +219,7 @@ Gems are shown normally. The Twilight Strand gems are max size.
 - Area levels 2-67:
 > - Size: 45 -> 40
 
-**[ Divination Cards ]**
+# Divination Cards
 
 The Heroic Shot and Society's Remorse are powerful cards that have an immediate impact on your currency situation.
 - Area levels 1-67:
@@ -227,10 +230,10 @@ The Heroic Shot and Society's Remorse are powerful cards that have an immediate 
 
 Other divination cards are hidden.
 
-**[ Fragments ]**
+# Fragments
 
 Fragments are hidden.
 
-**[ Maps ]**
+# Maps
 
 Maps and contracts are hidden.

@@ -4,22 +4,24 @@
 
 # About this filter:
 
-This filter is for the fire caster templar build that uses Rolling Magma, Armageddon Brand, and Cremation. It's perfectly usable for A5 runs, but is tailored more towards A10.
+This filter is for the templar fire caster build that uses Rolling Magma, Armageddon Brand, and Cremation. It's perfectly usable for A5 runs, but is tailored more towards A10.
 
 # Complete documentation:
 
-**[ Equipment ]**
+---
 
-**[ Flasks ]**
+# Equipment
 
-**[ Uniques ]**
+# Flasks
 
-**[ Currency ]**
+# Uniques
 
-**[ Gems ]**
+# Currency
 
-**[ Divination Cards ]**
+# Gems
 
-**[ Fragments ]**
+# Divination Cards
 
-**[ Maps ]**
+# Fragments
+
+# Maps
