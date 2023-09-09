@@ -1,10 +1,10 @@
-*CampaignOnly note: This filter should only be used for races/speedruns to A10 or earlier. Don't use it if you plan on mapping.*
+*Campaign note: This filter should only be used for races/speedruns to A10 or earlier. Don't use it if you plan on mapping.*
 
 *Version note: This filter is for 3.22. There are no plans for it to be updated for 3.23 leaguestart, and it shouldn't be used for leaguestarting anyways.*
 
 # About this filter:
 
-This filter serves as a starting point for all of the CampaignOnly filters, dictating the progression of general items such as jewellery, flasks, and currency. 
+This filter serves as a starting point for all of the campaign filters, dictating the progression of general items such as jewellery, flasks, and currency. 
 
 This filter is strictly a tool and isn't intended for actual gameplay. If you use it, you won't see links or bases tailored towards your build. 
 
