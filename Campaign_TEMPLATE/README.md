@@ -472,15 +472,15 @@ Size: 45 -> 40
 
 # Currency
 
-*Wisdoms have TTS until Prisoner's Gate and are hidden from The Cathedral Rooftop onwards.*
+*Wisdoms have TTS until The Forest Encampment and are hidden from The Cathedral Rooftop onwards.*
 
-**Area levels 1-9**  
+**Area levels 1-13**  
 Colors: Default  
 Size: 45  
 Sound: TTS ("wisdom")  
 Map icon: Grey cross
 
-**Area levels 10-44**  
+**Area levels 14-44**  
 Size: 45 -> 40  
 Sound: TTS -> None  
 Map icon: Grey cross -> None
@@ -495,21 +495,21 @@ Size: 45
 
 ---
 
-*Portals have TTS until The Forest Encampment.*
+*Portals have TTS until The Slums.*
 
-**Area levels 1-13**  
+**Area levels 1-23**  
 Colors: Default  
 Size: 45  
 Sound: TTS ("portal")  
 Map icon: Grey cross
 
-**Area levels 14-67**  
+**Area levels 24-67**  
 Sound: TTS -> None  
 Map icon: Grey cross -> None
 
 ---
 
-*Portal stacks of >4 always have TTS.*
+*Portal stacks of ≥3 always have TTS.*
 
 **Area levels 1-67**  
 Colors: Default  
@@ -533,7 +533,7 @@ Map icon: White cross -> None
 
 ---
 
-*Armourer stacks of >3 always have TTS.*
+*Armourer stacks of ≥3 always have TTS.*
 
 **Area levels 1-67**  
 Colors: Default  
@@ -581,7 +581,7 @@ Map icon: Blue cross -> None
 
 ---
 
-*Augmentation stacks of >3 always have TTS.*
+*Augmentation stacks of ≥3 always have TTS.*
 
 **Area levels 1-67**  
 Colors: Default  
