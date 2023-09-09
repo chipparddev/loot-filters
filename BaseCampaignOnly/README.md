@@ -417,7 +417,7 @@ Size: 40
 
 ---
 
-*The utility flasks most commonly used in the campaign have TTS.*
+*Quicksilver, Silver, Granite, Jade, and Quartz flasks always have TTS.*
 
 **Area levels 1-67**  
 Colors: Teal background, default text, no border  
@@ -436,14 +436,6 @@ Size: 45
 ---
 
 *Other utility flasks are hidden.*
-
----
-
-*White 20q flasks are always shown.*
-
-**Area levels 1-67**  
-Colors: Black/teal background, default text, white border  
-Size: 45
 
 # Uniques
 
