@@ -11,7 +11,7 @@ Weapons focused on:
 - Any melee weapons that can be used with Whirling Blades from Prisoner's Gate to mid A2
 - Claws from mid A2 onwards
 
-You can also use this filter for ele claws, but it will be slightly suboptimal. Namely, rare claws that have "fallen behind the phys curve" (e.g. a rare Awl in A6) won't play TTS.
+You can also use this filter for ele claws, but it'll be slightly suboptimal. Namely, rare claws that have "fallen behind the phys curve" (e.g. a rare Awl in A6) won't play TTS.
 
 # Complete documentation:
 
