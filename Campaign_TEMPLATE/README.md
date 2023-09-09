@@ -728,7 +728,7 @@ Size: 45 -> 40
 **Area levels 1-67**  
 Colors: White background, blue text, blue border  
 Size: 45  
-Sound: 6 
+Sound: 6  
 Map icon: Purple triangle
 
 ---
