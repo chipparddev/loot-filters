@@ -302,14 +302,11 @@ Size: 45 -> 42
 
 ---
 
-*White Paua rings are shown until The Forest Encampment.*
+*White Paua rings are shown until The Submerged Passage.*
 
 **Area levels 1-4**  
 Colors: Default  
 Size: 45
-
-**Area levels 5-13**  
-Size: 45 -> 40
 
 ---
 
@@ -424,7 +421,15 @@ Size: 45 -> 42
 
 ---
 
-*White Coral and Paua amulets are shown until The Forest Encampment.*
+*White Paua amulets are shown until The Submerged Passage.*
+
+**Area levels 1-4**  
+Colors: Default  
+Size: 45
+
+---
+
+*White Coral amulets are shown until The Forest Encampment.*
 
 **Area levels 1-4**  
 Colors: Default  
