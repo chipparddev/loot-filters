@@ -4,7 +4,7 @@
 
 # About this filter:
 
-This filter serves as a starting point for all of the campaign filters, dictating the progression of general items such as jewellery, flasks, and currency. 
+This filter serves as a starting point for all of the campaign filters, laying out the groundwork for the progression of things like jewellery, flasks, and currency. 
 
 This filter is strictly a tool and isn't intended for actual gameplay. If you use it, you won't see links or bases tailored towards your build. 
 
@@ -12,11 +12,194 @@ This filter is strictly a tool and isn't intended for actual gameplay. If you us
 
 # Weapons
 
-WIP
+*Override rule: Chromatic 2x4 weapons are shown until at least The Slums.*
+
+**Area levels 1-23**  
+Colors: Same colors + pink border  
+Size: At least 40
+
+---
+
+*Override rule: Chromatic 2x3 weapons are shown until at least The Cathedral Rooftop.*
+
+**Area levels 1-44**  
+Colors: Same colors + pink border  
+Size: At least 40
+
+---
+
+*Override rule: Chromatic 2x2, 1x4, and 1x3 weapons are always shown.*
+
+**Area levels 1-67**  
+Colors: Same colors + pink border  
+Size: At least 40
+
+---
+
+*Override rule: White 20q 2x4 and 2x3 weapons are shown until at least The Slums.*
+
+**Area levels 1-23**  
+Colors: Default background, default text, white border  
+Size: 45
+
+---
+
+*Override rule: White 20q 2x2, 1x4, and 1x3 weapons are shown until at least The Cathedral Rooftop.*
+
+**Area levels 1-44**  
+Colors: Default background, default text, white border  
+Size: 45
+
+---
+
+*White 2x4 and 2x3 weapons are only shown in The Twilight Strand. This rule may be modified in other filters to include exceptions (e.g. Stone Axes in melee filters, 3l Crude Bows in ranged filters).*
+
+**Area level 1**  
+Colors: Default  
+Size: 45
+
+---
+
+*White 2x2, 1x4, and 1x3 weapons are shown until The Submerged Passage.*
+
+**Area levels 1-4**  
+Colors: Default  
+Size: 45
+
+---
+
+*Magic weapons are shown until The Sceptre of God. Rules for magic equipment will be much more sophisticated in other filters.*
+
+**Area levels 1-4**  
+Colors: Default  
+Size: 45
+
+**Area levels 5-31**  
+Size: 45 -> 40
+
+---
+
+*Rare weapons are always shown.*
+
+**Area levels 1-44**  
+Colors: Black background, default text, no border  
+Size: 45
+
+**Area levels 45-67**  
+Size: 45 -> 40
 
 # Armour
 
-WIP
+*Override rule: Chromatic 2x4 armour pieces are shown until at least The Slums.*
+
+**Area levels 1-23**  
+Colors: Same colors + pink border  
+Size: At least 40
+
+---
+
+*Override rule: Chromatic 2x3 armour pieces are shown until at least The Cathedral Rooftop.*
+
+**Area levels 1-44**  
+Colors: Same colors + pink border  
+Size: At least 40
+
+---
+
+*Override rule: Chromatic 2x2 armour pieces are always shown.*
+
+**Area levels 1-67**  
+Colors: Same colors + pink border  
+Size: At least 40
+
+---
+
+*Override rule: White 20q armour pieces are shown until at least The Slums.*
+
+**Area levels 1-23**  
+Colors: Default background, default text, white border  
+Size: 45
+
+---
+
+*White and magic 4l armour pieces have TTS until The Blood Aqueduct.*
+
+**Area levels 1-60**  
+Colors: Default  
+Size: 45  
+Sound: TTS ("four link") + ("str", "dex", "int", "str dex", "str int", "dex int") + ("body", "helm", "gloves", "boots")  
+Map icon: White/blue (rarity) circle
+
+**Area levels 61-67**  
+Size: 45 -> 40  
+Sound: TTS -> None  
+Map icon: White/blue circle -> None
+
+---
+
+*Rare 4l armour pieces always have TTS.*
+
+**Area levels 1-67**  
+Colors: Green background, default text, no border  
+Size: 45  
+Sound: TTS ("rare four link") + ("str", "dex", "int", "str dex", "str int", "dex int") + ("body", "helm", "gloves", "boots")  
+Map icon: Yellow circle
+
+---
+
+*White armour pieces are shown until The Submerged Passage.*
+
+**Area levels 1-4**  
+Colors: Default  
+Size: 45
+
+---
+
+*Magic armour pieces are shown until The Sceptre of God. Rules for magic equipment will be much more sophisticated in other filters.*
+
+**Area levels 1-4**  
+Colors: Default  
+Size: 45
+
+**Area levels 5-31**  
+Size: 45 -> 40
+
+---
+
+*Rare armour pieces are always shown.*
+
+**Area levels 1-44**  
+Colors: Black background, default text, no border  
+Size: 45
+
+**Area levels 45-67**  
+Size: 45 -> 40
+
+# Quivers
+
+*White quivers are hidden.*
+
+---
+
+*Magic quivers are shown until The Sceptre of God. Rules for magic equipment will be much more sophisticated in other filters.*
+
+**Area levels 1-4**  
+Colors: Default  
+Size: 45
+
+**Area levels 5-31**  
+Size: 45 -> 40
+
+---
+
+*Rare quivers are always shown.*
+
+**Area levels 1-44**  
+Colors: Black background, default text, no border  
+Size: 45
+
+**Area levels 45-67**  
+Size: 45 -> 40
 
 # Jewellery
 
@@ -331,13 +514,17 @@ Size: 45 -> 40
 
 ---
 
-*Rare Amber, Jade, Lapis, Agate, Citrine, Turquoise, and Onyx amulets always have TTS.*
+*Rare Amber, Jade, Lapis, Agate, Citrine, Turquoise, and Onyx amulets have TTS until The Blood Aqueduct.*
 
-**Area levels 1-67**  
+**Area levels 1-60**  
 Colors: Green background, default text, no border  
 Size: 45  
 Sound: TTS ("rare amber", "rare jade", "rare lapis", "rare agate", "rare citrine", "rare turquoise", "rare onyx")  
 Map icon: Yellow circle
+
+**Area levels 61-67**  
+Sound: TTS -> None  
+Map icon: Yellow circle -> None
 
 ---
 
@@ -351,6 +538,14 @@ Size: 45
 Size: 45 -> 42
 
 # Flasks
+
+*Override rule: Magic life/mana flasks are shown until at least The Sceptre of God.*
+
+**Area levels 1-31**  
+Colors: Default  
+Size: At least 40
+
+---
 
 *Small life/mana flasks are shown until The Submerged Passage.*
 
@@ -387,17 +582,6 @@ Map icon: White/blue (rarity) circle
 Size: 45 -> 40  
 Sound: TTS -> None  
 Map icon: White/blue circle -> None
-
----
-
-*Small, Medium, Large, and Greater life/mana flasks that are magic are shown until The Sceptre of God.*
-
-**Area levels 1-4**  
-Colors: Default  
-Size: 45
-
-**Area levels 5-31**  
-Size: 45 -> 40
 
 ---
 
@@ -581,16 +765,6 @@ Map icon: Blue cross -> None
 
 ---
 
-*Augmentation stacks of ≥3 always have TTS.*
-
-**Area levels 1-67**  
-Colors: Default  
-Size: 45  
-Sound: TTS ("augment stack")  
-Map icon: Blue cross
-
----
-
 *Transmutations and Alterations have TTS until The Cathedral Rooftop.*
 
 **Area levels 1-44**  
@@ -659,32 +833,26 @@ Map icon: Yellow cross
 
 ---
 
-*Bindings always have TTS.*
+*Vaals have TTS until The Blood Aqueduct.*
 
-**Area levels 1-67**  
-Colors: Orange background, black text, black border  
-Size: 45  
-Sound: TTS ("binding")  
-Map icon: Orange cross
-
----
-
-*Vaals always have TTS.*
-
-**Area levels 1-67**  
+**Area levels 1-60**  
 Colors: Orange background, black text, black border  
 Size: 45  
 Sound: TTS ("vaal")  
 Map icon: Red cross
 
+**Area levels 61-67**  
+Sound: TTS -> None  
+Map icon: Red cross -> None
+
 ---
 
-*Exalteds always have TTS.*
+*Bindings and Exalteds always have TTS.*
 
 **Area levels 1-67**  
-Colors: White background, red text, red border  
+Colors: Dark orange background, black text, black border  
 Size: 45  
-Sound: TTS ("exalt")  
+Sound: TTS ("binding", "exalt")  
 Map icon: Purple cross
 
 ---
