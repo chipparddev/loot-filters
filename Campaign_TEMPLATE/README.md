@@ -883,6 +883,30 @@ Map icon: Purple cross
 *Blesseds, Gemcutters', and Chisels are hidden.*  
 *Rogue Markers and Silver Coins are hidden.*
 
+# Essences
+
+**Area levels 1-67**  
+Colors: Variable background, black text, black border  
+Size: 45
+
+**Background RGB Values**  
+Greed: (180, 160, 255)  
+Contempt: (160, 170, 255)  
+Hatred: (150, 200, 255)  
+Woe: (150, 240, 255)  
+Fear: (130, 255, 150)  
+Anger: (130, 255, 150)  
+Torment: (130, 255, 150)  
+Sorrow: (230, 255, 100)  
+Rage: (230, 255, 100)  
+Suffering: (255, 190, 100)  
+Wrath: (255, 190, 100)  
+Doubt: (255, 150, 100)  
+Loathing: (255, 150, 100)  
+Zeal: (255, 120, 120)  
+Anguish: (255, 120, 120)  
+Spite: (255, 120, 120)
+
 # Gems
 
 *Gems are shown normally.*
