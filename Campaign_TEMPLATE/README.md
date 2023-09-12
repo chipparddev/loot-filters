@@ -15,7 +15,7 @@ This filter is strictly a tool and isn't intended for actual gameplay. If you us
 *Override rule: Chromatic 2x4 weapons are shown until at least The Slums.*
 
 **Area levels 1-23**  
-Colors: Same colors + pink border  
+Colors: Original colors + pink border  
 Size: At least 40
 
 ---
@@ -23,7 +23,7 @@ Size: At least 40
 *Override rule: Chromatic 2x3 weapons are shown until at least The Cathedral Rooftop.*
 
 **Area levels 1-44**  
-Colors: Same colors + pink border  
+Colors: Original colors + pink border  
 Size: At least 40
 
 ---
@@ -31,7 +31,7 @@ Size: At least 40
 *Override rule: Chromatic 2x2, 1x4, and 1x3 weapons are always shown.*
 
 **Area levels 1-67**  
-Colors: Same colors + pink border  
+Colors: Original colors + pink border  
 Size: At least 40
 
 ---
@@ -52,10 +52,10 @@ Size: 45
 
 ---
 
-*White 2x4 and 2x3 weapons are only shown in The Twilight Strand. This rule may be modified in other filters to include exceptions (e.g. Stone Axes in melee filters, 3l Crude Bows in ranged filters).*
+*White 2x4 and 2x3 weapons are only shown in The Twilight Strand.*
 
 **Area level 1**  
-Colors: Default  
+Colors: Default, but with translucent background  
 Size: 45
 
 ---
@@ -63,25 +63,87 @@ Size: 45
 *White 2x2, 1x4, and 1x3 weapons are shown until The Submerged Passage.*
 
 **Area levels 1-4**  
-Colors: Default  
+Colors: Default, but with translucent background  
 Size: 45
 
 ---
 
-*Magic weapons are shown until The Sceptre of God. Rules for magic equipment will be much more sophisticated in other filters.*
+*Magic weapons are max size until The Submerged Passage.*
 
 **Area levels 1-4**  
 Colors: Default  
 Size: 45
 
-**Area levels 5-31**  
-Size: 45 -> 40
+---
+
+*Magic 2x4 weapons shrink again at Prisoner's Gate and are hidden from The Vaal Ruins onwards.*
+
+**Area levels 5-9**  
+Colors: Default  
+Size: 40
+
+**Area levels 10-19**  
+Size: 40 -> 35
 
 ---
 
-*Rare weapons are always shown.*
+*Magic 2x3 weapons shrink again at The Forest Encampment and are hidden from The Slums onwards.*
 
-**Area levels 1-44**  
+**Area levels 5-13**  
+Colors: Default  
+Size: 40
+
+**Area levels 14-23**  
+Size: 40 -> 35
+
+---
+
+*Magic 2x2, 1x4, and 1x3 weapons shrink again at The Slums and are hidden from The Sceptre of God onwards.*
+
+**Area levels 5-23**  
+Colors: Default  
+Size: 40
+
+**Area levels 24-31**  
+Size: 40 -> 35
+
+---
+
+*Rare weapons are max size until at least The Sceptre of God.*
+
+**Area levels 1-31**  
+Colors: Black background, default text, no border  
+Size: 45
+
+---
+
+*Rare 2x4 weapons shrink and change color at The Sceptre of God. They also shrink and become translucent at The Cathedral Rooftop.*
+
+**Area levels 32-44**  
+Colors: Dark red background, default text, no border  
+Size: 38
+
+**Area levels 45-67**  
+Colors: Dark red -> Dark red translucent  
+Size: 38 -> 35
+
+---
+
+*Rare 2x3 weapons shrink at The Sceptre of God. They also shrink and change color at The Cathedral Rooftop.*
+
+**Area levels 32-44**  
+Colors: Black background, default text, no border  
+Size: 40
+
+**Area levels 45-67**  
+Colors: Black -> Dark red  
+Size: 40 -> 38
+
+---
+
+*Rare 2x2, 1x4, and 1x3 weapons shrink at The Cathedral Rooftop.*
+
+**Area levels 32-44**  
 Colors: Black background, default text, no border  
 Size: 45
 
@@ -93,7 +155,7 @@ Size: 45 -> 40
 *Override rule: Chromatic 2x4 armour pieces are shown until at least The Slums.*
 
 **Area levels 1-23**  
-Colors: Same colors + pink border  
+Colors: Original colors + pink border  
 Size: At least 40
 
 ---
@@ -101,7 +163,7 @@ Size: At least 40
 *Override rule: Chromatic 2x3 armour pieces are shown until at least The Cathedral Rooftop.*
 
 **Area levels 1-44**  
-Colors: Same colors + pink border  
+Colors: Original colors + pink border  
 Size: At least 40
 
 ---
@@ -109,7 +171,7 @@ Size: At least 40
 *Override rule: Chromatic 2x2 armour pieces are always shown.*
 
 **Area levels 1-67**  
-Colors: Same colors + pink border  
+Colors: Original colors + pink border  
 Size: At least 40
 
 ---
@@ -142,7 +204,7 @@ Map icon: White/blue circle -> None
 **Area levels 1-67**  
 Colors: Green background, default text, no border  
 Size: 45  
-Sound: TTS ("rare four link") + ("str", "dex", "int", "str dex", "str int", "dex int") + ("body", "helm", "gloves", "boots")  
+Sound: TTS ("four link") + ("str", "dex", "int", "str dex", "str int", "dex int") + ("body", "helm", "gloves", "boots")  
 Map icon: Yellow circle
 
 ---
@@ -150,25 +212,87 @@ Map icon: Yellow circle
 *White armour pieces are shown until The Submerged Passage.*
 
 **Area levels 1-4**  
-Colors: Default  
+Colors: Default, but with translucent background  
 Size: 45
 
 ---
 
-*Magic armour pieces are shown until The Sceptre of God. Rules for magic equipment will be much more sophisticated in other filters.*
+*Magic armour pieces are max size until The Submerged Passage.*
 
 **Area levels 1-4**  
 Colors: Default  
 Size: 45
 
-**Area levels 5-31**  
-Size: 45 -> 40
+---
+
+*Magic 2x4 armour pieces shrink again at Prisoner's Gate and are hidden from The Vaal Ruins onwards.*
+
+**Area levels 5-9**  
+Colors: Default  
+Size: 40
+
+**Area levels 10-19**  
+Size: 40 -> 35
 
 ---
 
-*Rare armour pieces are always shown.*
+*Magic 2x3 armour pieces shrink again at The Forest Encampment and are hidden from The Slums onwards.*
 
-**Area levels 1-44**  
+**Area levels 5-13**  
+Colors: Default  
+Size: 40
+
+**Area levels 14-23**  
+Size: 40 -> 35
+
+---
+
+*Magic 2x2 armour pieces shrink again at The Slums and are hidden from The Sceptre of God onwards.*
+
+**Area levels 5-23**  
+Colors: Default  
+Size: 40
+
+**Area levels 24-31**  
+Size: 40 -> 35
+
+---
+
+*Rare armour pieces are max size until at least The Sceptre of God.*
+
+**Area levels 1-31**  
+Colors: Black background, default text, no border  
+Size: 45
+
+---
+
+*Rare 2x4 armour pieces shrink and change color at The Sceptre of God. They also shrink and become translucent at The Cathedral Rooftop.*
+
+**Area levels 32-44**  
+Colors: Dark red background, default text, no border  
+Size: 38
+
+**Area levels 45-67**  
+Colors: Dark red -> Dark red translucent  
+Size: 38 -> 35
+
+---
+
+*Rare 2x3 armour pieces shrink at The Sceptre of God. They also shrink and change color at The Cathedral Rooftop.*
+
+**Area levels 32-44**  
+Colors: Black background, default text, no border  
+Size: 40
+
+**Area levels 45-67**  
+Colors: Black -> Dark red  
+Size: 40 -> 38
+
+---
+
+*Rare 2x2 armour pieces shrink at The Cathedral Rooftop.*
+
+**Area levels 32-44**  
 Colors: Black background, default text, no border  
 Size: 45
 
@@ -181,25 +305,32 @@ Size: 45 -> 40
 
 ---
 
-*Magic quivers are shown until The Sceptre of God. Rules for magic equipment will be much more sophisticated in other filters.*
+*Magic quivers shrink at The Submerged Passage, shrink again at The Forest Encampment, and are hidden from The Slums onwards.*
 
 **Area levels 1-4**  
 Colors: Default  
 Size: 45
 
-**Area levels 5-31**  
+**Area levels 5-13**  
 Size: 45 -> 40
+
+**Area levels 14-23**  
+Size: 40 -> 35
 
 ---
 
-*Rare quivers are always shown.*
+*Rare quivers shrink at The Sceptre of God. They also shrink and change color at The Cathedral Rooftop.*
 
-**Area levels 1-44**  
+**Area levels 1-31**  
 Colors: Black background, default text, no border  
 Size: 45
 
-**Area levels 45-67**  
+**Area levels 32-44**  
 Size: 45 -> 40
+
+**Area levels 45-67**  
+Colors: Black -> Dark red  
+Size: 40 -> 38
 
 # Jewellery
 
@@ -541,6 +672,25 @@ Size: 45
 
 **Area levels 45-67**  
 Size: 45 -> 42
+
+# Jewels
+
+*Magic jewels are shown until The Sceptre of God.*
+
+**Area levels 1-31**  
+Colors: Default  
+Size: 40
+
+---
+
+*Rare jewels and cluster jewels are always shown.*
+
+**Area levels 1-44**  
+Colors: Black background, default text, no border  
+Size: 45
+
+**Area levels 45-67**  
+Size: 45 -> 40
 
 # Flasks
 
@@ -909,7 +1059,17 @@ Spite: (255, 120, 120)
 
 # Gems
 
-*Gems are shown normally.*
+*Empower, Enhance, and Enlighten are highlighted.*
+
+**Area levels 1-67**  
+Colors: White background, purple text, purple border  
+Size: 45  
+Sound: 6  
+Map icon: Purple star
+
+---
+
+*Other gems are shown normally.*
 
 **Area level 1**  
 Colors: Default  

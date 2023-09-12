@@ -1,5 +1,7 @@
 # Welcome to the Chippard Filter Emporium
 
+**DM me (chip idiot) on Discord or ping me in PoE Community Racing if you have questions/feedback/issues.**
+
 All filters found here are fully documented. In the documentation, categories of items follow this format:
 
 ---
