@@ -72,7 +72,7 @@ Map icon: Pink cross
 **Area levels 1-67**  
 Colors: White background, red text, red border  
 Size: 45  
-Sound: TTS ("six link weapon")
+Sound: TTS ("six link weapon")  
 Map icon: Green cross
 
 ---
@@ -243,7 +243,7 @@ Map icon: Yellow circle -> None
 **Area levels 1-67**  
 Colors: Default  
 Size: 45  
-Sound: TTS ("five link") + ("strength", "dex", "int", "strength dex", "strength int", "dex int") + ("body")
+Sound: TTS ("five link") + ("strength", "dex", "int", "strength dex", "strength int", "dex int") + ("body")  
 Map icon: White/blue (rarity) circle
 
 ---
@@ -253,7 +253,7 @@ Map icon: White/blue (rarity) circle
 **Area levels 1-67**  
 Colors: Green background, default text, no border  
 Size: 45  
-Sound: TTS ("five link") + ("strength", "dex", "int", "strength dex", "strength int", "dex int") + ("body")
+Sound: TTS ("five link") + ("strength", "dex", "int", "strength dex", "strength int", "dex int") + ("body")  
 Map icon: Yellow circle
 
 ---
@@ -273,7 +273,7 @@ Map icon: Pink cross
 **Area levels 1-67**  
 Colors: White background, red text, red border  
 Size: 45  
-Sound: TTS ("six link body")
+Sound: TTS ("six link body")  
 Map icon: Green cross
 
 ---
