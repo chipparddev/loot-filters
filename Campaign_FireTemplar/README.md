@@ -52,6 +52,26 @@ Size: 45
 
 ---
 
+*6s weapons always have TTS.*
+
+**Area levels 1-67**  
+Colors: Purple background, default text, white border  
+Size: 45  
+Sound: TTS ("six socket")  
+Map icon: Pink cross
+
+---
+
+*6l weapons always have TTS.*
+
+**Area levels 1-67**  
+Colors: White background, red text, red border  
+Size: 45  
+Sound: TTS ("six link weapon")
+Map icon: Green cross
+
+---
+
 *White Driftwood Sceptres in The Twilight Strand have an opaque background to make the second sceptre stand out among Hillock's loot.*
 
 **Area level 1**  
@@ -73,41 +93,6 @@ Size: 45
 **Area levels 1-4**  
 Colors: Default, but with translucent background  
 Size: 45
-
----
-
-*White Goat's Horns have TTS until Prisoner's Gate and are hidden from The Vaal Ruins onwards.*
-
-**Area levels 1-9**  
-Colors: Default  
-Size: 40  
-Sound: TTS ("goat")  
-Map icon: White circle
-
-**Area levels 10-19**  
-Size: 40 -> 35  
-Sound: TTS -> None  
-Map icon: White circle -> None
-
----
-
-*Magic Goat's Horns have TTS until Prisoner's Gate and follow standard magic weapon rules afterwards.*
-
-**Area levels 1-9**  
-Colors: Default  
-Size: 40  
-Sound: TTS ("magic goat")  
-Map icon: Blue circle
-
----
-
-*Rare wands have TTS until The Vaal Ruins and follow standard rare weapon rules afterwards.*
-
-**Area levels 1-19**  
-Colors: Green background, default text, no border  
-Size: 45  
-Sound: TTS ("rare wand")  
-Map icon: Yellow circle
 
 ---
 
@@ -193,10 +178,45 @@ Size: 45
 **Area levels 45-67**  
 Size: 45 -> 40
 
+---
+
+*White Goat's Horns have TTS until Prisoner's Gate and are hidden from The Vaal Ruins onwards.*
+
+**Area levels 1-9**  
+Colors: Default  
+Size: 40  
+Sound: TTS ("goat")  
+Map icon: White circle
+
+**Area levels 10-19**  
+Size: 40 -> 35  
+Sound: TTS -> None  
+Map icon: White circle -> None
+
+---
+
+*Magic Goat's Horns have TTS until Prisoner's Gate and follow standard magic weapon rules afterwards.*
+
+**Area levels 1-9**  
+Colors: Default  
+Size: 40  
+Sound: TTS ("goat")  
+Map icon: Blue circle
+
+---
+
+*Rare wands have TTS until The Vaal Ruins and follow standard rare weapon rules afterwards.*
+
+**Area levels 1-19**  
+Colors: Green background, default text, no border  
+Size: 45  
+Sound: TTS ("rare wand")  
+Map icon: Yellow circle
+
 # Leap Slam Weapons
 
 **Weapon Tiers**  
-*Weapon needs to be BBB, BBG, BBR, RGB, or GGR to qualify as a 3l*
+*Weapon needs to be BBB, BBG, BBR, RGB, or GGR to qualify as a 3l.*
 
 D-tier: RG 1.5 sword, RG 1.45 axe, RG 1.45 mace, B 1.5 sword, B 1.45 axe, B 1.45 mace, any 1.55 sword, any 1.5 axe  
 C-tier: RG 1.55 sword, RG 1.5 axe, B 1.55 sword, B 1.5 axe, 3s 1.55 sword, 3s 1.5 axe, any Whalebone Rapier  
@@ -368,12 +388,12 @@ Size: 45
 
 ---
 
-*White and magic 4l armour pieces have TTS until The Blood Aqueduct.*
+*White and magic 4l int req. armour pieces have TTS until The Blood Aqueduct.*
 
 **Area levels 1-60**  
 Colors: Default  
 Size: 45  
-Sound: TTS ("four link") + ("str", "dex", "int", "str dex", "str int", "dex int") + ("body", "helm", "gloves", "boots")  
+Sound: TTS ("four link") + ("int", "strength int", "dex int") + ("body", "helm", "gloves", "boots")  
 Map icon: White/blue (rarity) circle
 
 **Area levels 61-67**  
@@ -383,13 +403,57 @@ Map icon: White/blue circle -> None
 
 ---
 
-*Rare 4l armour pieces always have TTS.*
+*Rare 4l int req. armour pieces have TTS until The Blood Aqueduct.*
+
+**Area levels 1-60**  
+Colors: Green background, default text, no border  
+Size: 45  
+Sound: TTS ("four link") + ("int", "strength int", "dex int") + ("body", "helm", "gloves", "boots")  
+Map icon: Yellow circle
+
+**Area levels 61-67**  
+Sound: TTS -> None  
+Map icon: Yellow circle -> None
+
+---
+
+*White and magic 5l int req. armour pieces always have TTS.*
+
+**Area levels 1-67**  
+Colors: Default  
+Size: 45  
+Sound: TTS ("five link") + ("int", "strength int", "dex int") + ("body")
+Map icon: White/blue (rarity) circle
+
+---
+
+*Rare 5l int req. armour pieces always have TTS.*
 
 **Area levels 1-67**  
 Colors: Green background, default text, no border  
 Size: 45  
-Sound: TTS ("four link") + ("str", "dex", "int", "str dex", "str int", "dex int") + ("body", "helm", "gloves", "boots")  
+Sound: TTS ("five link") + ("int", "strength int", "dex int") + ("body")
 Map icon: Yellow circle
+
+---
+
+*6s armour pieces always have TTS.*
+
+**Area levels 1-67**  
+Colors: Purple background, default text, white border  
+Size: 45  
+Sound: TTS ("six socket")  
+Map icon: Pink cross
+
+---
+
+*6l armour pieces always have TTS.*
+
+**Area levels 1-67**  
+Colors: White background, red text, red border  
+Size: 45  
+Sound: TTS ("six link body")
+Map icon: Green cross
 
 ---
 
@@ -483,6 +547,122 @@ Size: 45
 **Area levels 45-67**  
 Size: 45 -> 40
 
+# Complex Armour
+
+This section covers armour pieces that are good enough to not necessarily have to follow the standard normal/magic/rare armour progression rules.
+
+**Armour Tiers**  
+*Armour needs to be BBB, BBG, BBR, RGB, or GGR to qualify as a 3l.*  
+*Armour increases in "rank" as it progresses (e.g. Plate Vest is rank 1, Chestplate is rank 2).*
+ 
+C-tier: Any non-shield  
+B-tier: 2s int req. body/helm/gloves/boots, 3s non-shield  
+A-tier: 3s/4s/5s int req/rank 1 body, 3s/4s int req/rank 1-2 helm/gloves/boots  
+S-tier: 3l non-shield with <70 dex req and <70 str req
+
+---
+
+*White C-tier, B-tier, and A-tier armour pieces have an opaque background until The Submerged Passage.*
+
+**Area levels 1-4**  
+Colors: Default  
+Size: 45
+
+---
+
+*White C-tier armour pieces are shown until Prisoner's Gate.*
+
+**Area levels 5-9**  
+Colors: Default  
+Size: 35
+
+---
+
+*White B-tier armour pieces are shown until The Forest Encampment.*
+
+**Area levels 5-9**  
+Colors: Default  
+Size: 40
+
+**Area levels 10-13**  
+Size: 40 -> 35
+
+---
+
+*White A-tier armour pieces are shown until The Sceptre of God.*
+
+**Area levels 5-13**  
+Colors: Default  
+Size: 40
+
+**Area levels 14-31**  
+Size: 40 -> 35
+
+---
+
+*Magic A-tier armour pieces are shown until The Cathedral Rooftop.*
+
+**Area levels 5-31**  
+Colors: Default  
+Size: 40
+
+**Area levels 32-44**  
+Size: 40 -> 35
+
+---
+
+*Rare A-tier armour pieces are always shown.*
+
+**Area levels 32-44**  
+Colors: Dark green background, default text, no border  
+Size: 45
+
+**Area levels 45-67**  
+Size: 45 -> 42
+
+---
+
+*White and magic S-tier armour pieces have TTS until The Sceptre of God and are hidden from The Cathedral Rooftop onwards.*
+
+**Area levels 1-31**  
+Colors: Default  
+Size: 45  
+Sound: TTS ("b b b", "b b g", "b b r", "r g b", "g g r")  
+Map icon: White/blue (rarity) circle
+
+**Area levels 32-44** 
+Size: 45 -> 40   
+Sound: TTS -> None  
+Map icon: White/blue circle -> None
+
+---
+
+*Rare S-tier armour pieces have TTS until The Sceptre of God and are always shown.*
+
+**Area levels 1-31**  
+Colors: Dark green background, default text, no border  
+Size: 45  
+Sound: TTS ("b b b", "b b g", "b b r", "r g b", "g g r")  
+Map icon: Yellow circle
+
+**Area levels 32-44**  
+Sound: TTS -> None  
+Map icon: Yellow circle -> None
+
+**Area levels 45-67**  
+Size: 45 -> 42
+
+---
+
+*Rare int req. body armours that don't meet the A-tier or S-tier socket requirements are always shown.*
+
+**Area levels 32-44**  
+Colors: Black background, default text, no border  
+Size: 45
+
+**Area levels 45-67**  
+Size: 45 -> 40
+
 # Quivers
 
 *White quivers are hidden.*
@@ -518,6 +698,14 @@ Size: 40 -> 38
 
 # Jewellery
 
+*White Rustics are shown until The Submerged Passage.*
+
+**Area levels 1-4**  
+Colors: Default  
+Size: 45
+
+---
+
 *White Chain belts are shown until The Forest Encampment.*
 
 **Area levels 1-4**  
@@ -529,7 +717,7 @@ Size: 45 -> 40
 
 ---
 
-*White Rustic and Heavy belts are shown until The Vaal Ruins.*
+*White Heavy belts are shown until The Vaal Ruins.*
 
 **Area levels 1-4**  
 Colors: Default  
@@ -555,7 +743,7 @@ Map icon: White circle -> None
 
 ---
 
-*Magic Rustic and Heavy belts are shown until The Cathedral Rooftop.*
+*Magic Heavy belts are shown until The Cathedral Rooftop.*
 
 **Area levels 1-4**  
 Colors: Default  
@@ -592,12 +780,12 @@ Size: 45 -> 40
 
 ---
 
-*Rare Rustic, Heavy, and Leather belts have TTS until The Cathedral Rooftop.*
+*Rare Heavy and Leather belts have TTS until The Cathedral Rooftop.*
 
 **Area levels 1-44**  
 Colors: Green background, default text, no border  
 Size: 45  
-Sound: TTS ("rare rustic", "rare heavy", "rare leather")  
+Sound: TTS ("rare heavy", "rare leather")  
 Map icon: Yellow circle
 
 **Area levels 45-67**  
@@ -755,7 +943,7 @@ Size: 45 -> 40
 
 ---
 
-*White Gold amulets are shown until The Slums.*
+*White Amber, Jade, Agate, Turquoise, Onyx, and Gold amulets are shown until The Slums.*
 
 **Area levels 1-23**  
 Colors: Default  
@@ -763,63 +951,25 @@ Size: 40
 
 ---
 
-*White Amber, Jade, and Lapis amulets have TTS until The Forest Encampment and are hidden from The Slums onwards.*
+*White Citrine amulets are always shown.*
 
-**Area levels 1-13**  
+**Area levels 1-23**  
 Colors: Default  
-Size: 45  
-Sound: TTS ("amber", "jade ammy", "lapis")  
-Map icon: White circle
+Size: 40
 
-**Area levels 14-23**  
-Size: 45 -> 40  
-Sound: TTS -> None  
-Map icon: White circle -> None
+**Area levels 24-67**  
+Size: 40 -> 35
 
 ---
 
-*White Agate, Citrine, Turquoise, and Onyx amulets have TTS until The Sceptre of God.*
+*Magic Amber, Jade, Agate, Citrine, Turquoise, and Onyx amulets are shown until The Cathedral Rooftop.*
 
-**Area levels 1-31**  
+**Area levels 1-4**  
 Colors: Default  
-Size: 45  
-Sound: TTS ("agate", "citrine", "turquoise", "onyx")  
-Map icon: White circle
+Size: 45
 
-**Area levels 32-67**  
-Size: 45 -> 35  
-Sound: TTS -> None  
-Map icon: White circle -> None
-
----
-
-*Magic Amber, Jade, and Lapis amulets have TTS until The Forest Encampment and are hidden from The Cathedral Rooftop onwards.*
-
-**Area levels 1-13**  
-Colors: Default  
-Size: 45  
-Sound: TTS ("amber", "jade ammy", "lapis")  
-Map icon: Blue circle
-
-**Area levels 14-44**  
-Size: 45 -> 40  
-Sound: TTS -> None  
-Map icon: Blue circle -> None
-
----
-
-*Magic Agate, Citrine, Turquoise, and Onyx amulets have TTS until The Sceptre of God and are hidden from The Cathedral Rooftop onwards.*
-
-**Area levels 1-31**  
-Colors: Default  
-Size: 45  
-Sound: TTS ("agate", "citrine", "turquoise", "onyx")  
-Map icon: Blue circle
-
-**Area levels 32-44**  
-Size: 45 -> 40  
-Sound: TTS -> None  
-Map icon: Blue circle -> None
+**Area levels 5-44**  
+Size: 45 -> 40
 
 ---
 
@@ -834,12 +984,12 @@ Size: 45 -> 40
 
 ---
 
-*Rare Amber, Jade, Lapis, Agate, Citrine, Turquoise, and Onyx amulets have TTS until The Blood Aqueduct.*
+*Rare Amber, Jade, Agate, Citrine, Turquoise, and Onyx amulets have TTS until The Blood Aqueduct.*
 
 **Area levels 1-60**  
 Colors: Green background, default text, no border  
 Size: 45  
-Sound: TTS ("rare amber", "rare jade", "rare lapis", "rare agate", "rare citrine", "rare turquoise", "rare onyx")  
+Sound: TTS ("rare amber", "rare jade", "rare agate", "rare citrine", "rare turquoise", "rare onyx")  
 Map icon: Yellow circle
 
 **Area levels 61-67**  

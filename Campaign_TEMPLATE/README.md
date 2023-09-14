@@ -52,6 +52,26 @@ Size: 45
 
 ---
 
+*6s weapons always have TTS.*
+
+**Area levels 1-67**  
+Colors: Purple background, default text, white border  
+Size: 45  
+Sound: TTS ("six socket")  
+Map icon: Pink cross
+
+---
+
+*6l weapons always have TTS.*
+
+**Area levels 1-67**  
+Colors: White background, red text, red border  
+Size: 45  
+Sound: TTS ("six link weapon")
+Map icon: Green cross
+
+---
+
 *White 2x4 and 2x3 weapons are only shown in The Twilight Strand.*
 
 **Area level 1**  
@@ -189,7 +209,7 @@ Size: 45
 **Area levels 1-60**  
 Colors: Default  
 Size: 45  
-Sound: TTS ("four link") + ("str", "dex", "int", "str dex", "str int", "dex int") + ("body", "helm", "gloves", "boots")  
+Sound: TTS ("four link") + ("strength", "dex", "int", "strength dex", "strength int", "dex int") + ("body", "helm", "gloves", "boots")  
 Map icon: White/blue (rarity) circle
 
 **Area levels 61-67**  
@@ -199,13 +219,57 @@ Map icon: White/blue circle -> None
 
 ---
 
-*Rare 4l armour pieces always have TTS.*
+*Rare 4l armour pieces have TTS until The Blood Aqueduct.*
+
+**Area levels 1-60**  
+Colors: Green background, default text, no border  
+Size: 45  
+Sound: TTS ("four link") + ("strength", "dex", "int", "strength dex", "strength int", "dex int") + ("body", "helm", "gloves", "boots")  
+Map icon: Yellow circle
+
+**Area levels 61-67**  
+Sound: TTS -> None  
+Map icon: Yellow circle -> None
+
+---
+
+*White and magic 5l armour pieces always have TTS.*
+
+**Area levels 1-67**  
+Colors: Default  
+Size: 45  
+Sound: TTS ("five link") + ("strength", "dex", "int", "strength dex", "strength int", "dex int") + ("body")
+Map icon: White/blue (rarity) circle
+
+---
+
+*Rare 5l armour pieces always have TTS.*
 
 **Area levels 1-67**  
 Colors: Green background, default text, no border  
 Size: 45  
-Sound: TTS ("four link") + ("str", "dex", "int", "str dex", "str int", "dex int") + ("body", "helm", "gloves", "boots")  
+Sound: TTS ("five link") + ("strength", "dex", "int", "strength dex", "strength int", "dex int") + ("body")
 Map icon: Yellow circle
+
+---
+
+*6s armour pieces always have TTS.*
+
+**Area levels 1-67**  
+Colors: Purple background, default text, white border  
+Size: 45  
+Sound: TTS ("six socket")  
+Map icon: Pink cross
+
+---
+
+*6l armour pieces always have TTS.*
+
+**Area levels 1-67**  
+Colors: White background, red text, red border  
+Size: 45  
+Sound: TTS ("six link body")
+Map icon: Green cross
 
 ---
 
