@@ -1396,7 +1396,7 @@ Spite: (255, 120, 120)
 
 # Gems
 
-*Burning Arrow, Momentum, Glacial Hammer, Elemental Proliferation, Flame Wall, Holy Flame Totem, War Banner, Arcane Surge, and Chance to Poison are shown until The Submerged Passage.*
+*Burning Arrow, Momentum, Glacial Hammer, Elemental Proliferation, Flame Wall, Holy Flame Totem, War Banner, Sniper's Mark, Arcane Surge, and Chance to Poison are shown until The Submerged Passage.*
 
 **Area level 1-4**  
 Colors: Default  
@@ -1404,7 +1404,7 @@ Size: 45
 
 ---
 
-*Wave of Conviction, Armageddon Brand, Cremation, Desecrate, Arcanist Brand, Herald of Ash, Herald of Ice, Herald of Thunder, Anger, Determination, Haste, Arcane Surge, Chance to Poison, Combustion, Added Lightning Damage, Added Cold Damage, Lesser Multiple Projectiles, Spell Totem, Elemental Focus, Cruelty, Concentrated Effect, Faster Casting, Fire Penetration, Slower Projectiles, Pinpoint, Ignite Proliferation, Immolate, and Greater Multiple Projectiles are shown normally.*
+*Wave of Conviction, Armageddon Brand, Cremation, Sniper's Mark, Desecrate, Arcanist Brand, Herald of Ash, Herald of Ice, Herald of Thunder, Anger, Determination, Haste, Arcane Surge, Chance to Poison, Combustion, Added Lightning Damage, Added Cold Damage, Lesser Multiple Projectiles, Spell Totem, Elemental Focus, Cruelty, Concentrated Effect, Faster Casting, Fire Penetration, Slower Projectiles, Pinpoint, Ignite Proliferation, Immolate, and Greater Multiple Projectiles are shown normally.*
 
 **Area level 5-67**  
 Colors: Default  
