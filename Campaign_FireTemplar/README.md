@@ -1396,7 +1396,7 @@ Spite: (255, 120, 120)
 
 # Gems
 
-*Glacial Hammer, Elemental Proliferation, Flame Wall, Holy Flame Totem, War Banner, Arcane Surge, and Chance to Poison are shown until The Submerged Passage.*
+*Burning Arrow, Momentum, Glacial Hammer, Elemental Proliferation, Flame Wall, Holy Flame Totem, War Banner, Arcane Surge, and Chance to Poison are shown until The Submerged Passage.*
 
 **Area level 1-4**  
 Colors: Default  
