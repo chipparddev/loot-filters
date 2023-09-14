@@ -1103,7 +1103,7 @@ Map icon: White/blue (rarity) circle
 
 ---
 
-*Bismuth, Basalt, Stibnite, Sulphur, and Diamond flasks are shown normally.*
+*Bismuth, Basalt, Stibnite, and Sulphur flasks are shown normally.*
 
 **Area levels 1-67**  
 Colors: Teal background, default text, no border  
